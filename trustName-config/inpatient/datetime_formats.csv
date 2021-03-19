@@ -1,0 +1,3 @@
+﻿column_name,datetime_format
+start_datetime,%d/%m/%Y %H:%M
+end_datetime,%d/%m/%Y %H:%M
