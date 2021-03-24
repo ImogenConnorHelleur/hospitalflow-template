@@ -4,4 +4,4 @@ hospitalflow::render_example_report(title = "Example Hospital Flow Report",
                                     sample_weeks = 1,
                                     sample_no_of_patients = 50,
                                     import_list_path = "../example-config/example_import_list.rds",
-                                    output_dir = "vignettes/reports")
+                                    output_dir = "reports")
